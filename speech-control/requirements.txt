@@ -1,0 +1,12 @@
+# Python dependencies for TurtleBot3 Voice Control
+
+# Speech Recognition Library
+speech_recognition
+
+# PyAudio for microphone input (required by speech_recognition)
+PyAudio
+
+# rospy and geometry_msgs are part of the ROS environment and are not installed via pip.
+# Ensure ROS is installed along with the necessary ROS packages for TurtleBot3.
+
+# threading is part of Python's standard library and does not require installation via pip.
