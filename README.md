@@ -4,8 +4,6 @@
 
 ### Team Name: CyberSquad
 
----
-
 ### Team Members:
 
 1. Feruz Ubaydullaev - 12204578
@@ -15,18 +13,18 @@
 5. Meliboev Shukurullo - 12225261
 6. Kiyomov Asadbek - 12225264
 7. Abdukarimov Humoyunbek - 12204584
-   
 
 ---
 
-### Date: Project Submission: 04/12/2023 | Completion Date: 03/12/2023 
+### Date: Project Submission: 04/12/2023 | Completion Date: 03/12/2023
 
 ---
 
 ## Project Overview
 
 ### Introduction
-This project is an exploration into the capabilities of robotic automation and navigation using the TurtleBot 3 platform. Our objective was to develop a versatile robotic system capable of performing autonomous navigation, 3D mapping of its environment, obstacle avoidance, and responding to voice commands. 
+
+This project is an exploration into the capabilities of robotic automation and navigation using the TurtleBot 3 platform. Our objective was to develop a versatile robotic system capable of performing autonomous navigation, 3D mapping of its environment, obstacle avoidance, and responding to voice commands.
 
 ### Project Parts
 
@@ -36,22 +34,22 @@ This project is an exploration into the capabilities of robotic automation and n
 - **Voice Control**: Incorporating voice recognition, the robot can understand and execute simple voice commands, enhancing its interactivity and ease of control.
 
 ### Project Parts(Team Leader - Feruz)
+
 - **PC-Setup/Bring-up** - Umarova Mukaddaskhon
 - **SBC-Setup** - Suiindik Akniyet
 - **Opencr-Setup** - Arsen
 - **Navigation** - Shukurullo
 - **Speech Recognition** - Asadbek
 
-
 ### Tools and Technologies
+
 - **Robot Platform**: TurtleBot 3
 - **Programming Languages**: [Python, C++]
 - **Libraries & Frameworks**: [SpeechRecognition, ROS etc.]
 - **Hardware**: [TurtleBot3, Arduino, Raspberry]
 
 ### Project Goals and Objectives
+
 - To demonstrate the integration of various robotic technologies in a single platform.
 - To explore the practical applications of autonomous navigation and environmental interaction.
 - To develop skills in robotics, programming, and teamwork within a real-world project context.
-
-
