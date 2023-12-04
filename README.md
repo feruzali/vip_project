@@ -40,6 +40,7 @@ This project is an exploration into the capabilities of robotic automation and n
 - **Opencr-Setup** - Arsen
 - **Navigation** - Shukurullo
 - **Speech Recognition** - Asadbek
+- **SLAM -** Humoyun
 
 ### Tools and Technologies
 
