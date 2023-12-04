@@ -8,7 +8,7 @@
 
 ### Team Members:
 
-1. Feruz Ubaydullaev - 122....
+1. Feruz Ubaydullaev - 12204578
 2. Baktybek uulu Arsen - 12225262
 3. Umarova Mukaddaskhon - 12225186
 4. Suiindik Akniyet - 12225266
@@ -28,11 +28,20 @@
 ### Introduction
 This project is an exploration into the capabilities of robotic automation and navigation using the TurtleBot 3 platform. Our objective was to develop a versatile robotic system capable of performing autonomous navigation, 3D mapping of its environment, obstacle avoidance, and responding to voice commands. 
 
-### Features
+### Project Parts
+
 - **3D Mapping**: Utilizing the TurtleBot 3's sensors, our robot can create a three-dimensional map of its surroundings, aiding in effective navigation and environment interaction.
 - **SLAM Navigation**: Through Simultaneous Localization and Mapping (SLAM), the robot can dynamically understand and map its environment while keeping track of its own location.
 - **Obstacle Avoidance**: The robot is equipped with intelligent sensors to detect and avoid obstacles, ensuring smooth and safe operation.
 - **Voice Control**: Incorporating voice recognition, the robot can understand and execute simple voice commands, enhancing its interactivity and ease of control.
+
+### Project Parts(Team Leader - Feruz)
+- **PC-Setup/Bring-up** - Umarova Mukaddaskhon
+- **SBC-Setup** - Suiindik Akniyet
+- **Opencr-Setup** - Arsen
+- **Navigation** - Shukurullo
+- **Speech Recognition** - Asadbek
+
 
 ### Tools and Technologies
 - **Robot Platform**: TurtleBot 3
@@ -45,9 +54,4 @@ This project is an exploration into the capabilities of robotic automation and n
 - To explore the practical applications of autonomous navigation and environmental interaction.
 - To develop skills in robotics, programming, and teamwork within a real-world project context.
 
-### Installation and Setup
-*(Provide instructions on how to set up and run your project. This might include software installation, running scripts, or setting up hardware.)*
-
-### Usage
-*(Provide instructions on how to use the robot. This could include command-line instructions, control interface details, or how to interact with the robot's features.)*
 
